@@ -24,7 +24,7 @@ This project is a web-based quiz application that allows users to take quizzes, 
    ```sh
    git clone https://github.com/YuGal-69/Online-Quiz-Application.git
 
-   cd online-quiz-app
+   cd Online-Quiz-Application
    ```
 
 2. **Install dependencies:**
